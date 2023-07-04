@@ -1,6 +1,6 @@
 # Search Coin
 
-E um aplicativo que utliza uma API para cotar bitcoin em diferentes moedas
+É um aplicativo que utiliza uma API para cotar Bitcoin em diferentes moedas.
 
 ## API
 
