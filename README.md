@@ -1,4 +1,5 @@
 # Search Coin
+Swift and SwiftUI
 
 É um aplicativo que utiliza uma API para cotar Bitcoin em diferentes moedas.
 
